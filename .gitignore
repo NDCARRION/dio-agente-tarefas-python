@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+
+# Chaves e credenciais
+**/.env
+
+# Arquivos internos do Google ADK
+**/.adk/
+
+# Arquivos temporários do Python
+**/__pycache__/
+*.pyc
